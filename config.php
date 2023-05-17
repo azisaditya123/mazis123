@@ -36,7 +36,7 @@ $config['base_url'] =  (isset($_SERVER['HTTPS']) ? "https://" : "http://") . $_S
 |
 */
 $config['index_page'] = 'index php';
-$config['index_page'] = '';
+$config['index_page'] = '   ';
 
 
 /*
